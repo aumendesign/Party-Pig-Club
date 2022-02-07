@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0011CF013915813aD9eC3d22139C01Af354c0A3e",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0011cf013915813ad9ec3d22139c01af354c0a3e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Party Pig",
+  "SYMBOL": "Party Pig",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/party-pig-club",
+  "SHOW_BACKGROUND": true
+}
